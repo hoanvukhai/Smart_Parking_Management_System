@@ -12,14 +12,14 @@ int receivedScanCount = 0;
 
 
 // Cấu hình Wi-Fi
-const char* ssid = "hoan";
-const char* password = "10012003";
+const char* ssid = "";
+const char* password = "";
 
 // Cấu hình Firebase
-#define API_KEY "AIzaSyD5PG3Emv-PsLNAgriFa-qCCHt1DmxBJ0o"
-#define DATABASE_URL "https://smartparkingmanagementsy-42ed2-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "vukhaihoan2003@gmail.com"
-#define USER_PASSWORD "vukhaihoan2003"
+#define API_KEY ""
+#define DATABASE_URL ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 FirebaseData firebaseData;
 FirebaseAuth auth;
