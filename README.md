@@ -9,7 +9,7 @@ Hệ thống quản lý bãi đỗ xe thông minh là một giải pháp IoT hi�
 **Bảng điều khiển quản trị**: Thống kê sử dụng bãi xe, lịch sử ra vào, thanh toán của người dùng, đăng ký thẻ cho người dùng.
 **Theo dõi người dùng**: Ghi lịch sử thời gian vào/ra để tính phí, ghi lịch sử thanh toán tiền.
 **Tìm kiếm chỗ trống**: Hiển thị thông tin chỗ còn trống.
-**Đo khoảng cách**: Hiển thị khoảng cách giới hạn đến chỗ đỗ (thực hiện việc lùi xe)
+**Đo khoảng cách**: Hiển thị khoảng cách giới hạn đến chỗ đỗ (thực hiện việc lùi xe).
 ## Công nghệ sử dụng
 ### Phần cứng
 - Bộ điều khiển ESP32.
